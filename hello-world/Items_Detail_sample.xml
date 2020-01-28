@@ -1,0 +1,12 @@
+<overlay>
+	<after uuid="2654edea-e2e2-41ad-a555-d36cc83240b0">
+		<section label="Hello World" uuid="uuid_hello_world">
+			<subSection>
+				<group label="" visible="{/$EditMode} eq 'View'">
+					<Button uuid="uuid_btn_hello_world" text="Hello World" span="R"/>
+				
+			    </group>
+			</subSection>
+		</section>
+	</after>
+</overlay>
